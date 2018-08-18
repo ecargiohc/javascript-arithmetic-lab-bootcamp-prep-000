@@ -1,1 +1,1 @@
-function add() {console.log (1+8)
+function add() {console.log (1,8)
