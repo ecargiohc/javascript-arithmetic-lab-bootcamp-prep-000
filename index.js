@@ -1,3 +1,1 @@
-var number =5
-number++
-number
+add(1+80)
